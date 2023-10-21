@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: #a3b18a;
+    font-family: 'Fondamento', cursive;
+}
+
+h2 {
+    color: #a3b18a;
+    font-family: 'Fondamento', cursive;
+
+}
+
+body {
+    background-color: #344e41;
+}
+
+p {
+    color: #dad7cd;
+    max-width: 1024px;
+    font-family: 'Fondamento', cursive;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    /*width: 800px;*/
+}
+
+.main_pic {
+    max-width: 100%;
+    height: auto;
+    border: 10px solid black;
+}
+
+.star_separator {
+    color: #a3b18a;
+
+}
