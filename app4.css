@@ -1,11 +1,11 @@
 h1 {
     text-align: center;
-    color: #f9f4f5;
+    color: #2364aa;
     font-family: 'Fondamento', cursive;
 }
 
 h2 {
-    color: #f9f4f5;
+    color: #2364aa;
     font-family: 'Fondamento', cursive;
 
 }
@@ -15,7 +15,7 @@ body {
 }
 
 p {
-    color: #c8b8db;
+    color: #ea7317;
     max-width: 1024px;
     font-family: 'Fondamento', cursive;
 }
@@ -33,7 +33,7 @@ div {
 }
 
 .star_separator {
-    color: #f9f4f5;
+    color: #fec601;
 
 }
 
