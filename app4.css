@@ -37,6 +37,10 @@ div {
 
 }
 
+.side_text {
+    text-align: left;
+}
+
 .divider {
     width: 10px;
     height: auto;
